@@ -1,0 +1,8 @@
+	Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with one being used for the operator)
+Input a,b,ope,sum;
+If(ope==+)
+Sum=a+b
+Print(sum);
+Else if(ope==-)
+Sum=a-b
+Print(sum);
