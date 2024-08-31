@@ -1,0 +1,6 @@
+	Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+	Ask the user to enter the month number
+	If the number is 1
+	Display January
+	Else check other 
+	You get your result
