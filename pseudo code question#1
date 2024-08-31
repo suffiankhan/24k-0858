@@ -1,0 +1,8 @@
+Find the maximum number in any of three variables.
+Input a,b,c;
+If(a>b && a>c)
+Print(a is greatest);
+Else if(b>a && b>c)
+Print(b is greatest);
+Else
+(c is greatest);
