@@ -1,0 +1,6 @@
+	Take three variables as input and add them without using the + operator (Use your head for this)
+Input a,b,c,subtract,add,result
+Subtract=-a
+Sum=b+c
+Add=subtract-sum
+Result=-add
