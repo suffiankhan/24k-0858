@@ -1,0 +1,6 @@
+	Implement an algorithm for making a simple calculator with all the operators
+  Ask the user for input two number
+  Then enter the arithmetic operator
+  Calculate the value
+  Store it into another variable
+  You get your result
